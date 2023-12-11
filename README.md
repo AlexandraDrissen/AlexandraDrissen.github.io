@@ -38,13 +38,13 @@ Power BI, Excel, DAX, Data visualisations
 ---
 
 # Portfolio projects
-[1. Demographics HR dashboard | Excel and Power BI](## Demographics HR dashboard | Excel and Power BI)
+[1. Demographics HR dashboard | Excel and Power BI](## Demographics HR dashboard)
 
-[2. Interactive blueprint of clothing store | Visio and Power BI](## Interactive blueprint of clothing store | Visio and Power BI)
+[2. Interactive blueprint of clothing store | Visio and Power BI](## Interactive blueprint of clothing store)
 
 ---
 
-## Demographics HR dashboard | Excel and Power BI
+## Demographics HR dashboard
 Tools: Excel, Power BI, DAX, visualizations
 
 
@@ -134,7 +134,7 @@ After all previous steps, this is the final design of the HR Employee dashboard 
 
 ---
 
-## Interactive blueprint of clothing store | Visio and Power BI
+## Interactive blueprint of clothing store
 
 
 TBC
