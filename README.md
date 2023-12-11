@@ -130,4 +130,7 @@ After all previous steps, this is the final design of the HR Employee dashboard 
 
 ![alt text](Assets/Proj1_1.png)
 
+[Download files](Assets/DemographicEmployeeData_Excel_PoweBI.zip)
+
+---
 
